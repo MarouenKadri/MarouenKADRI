@@ -1,7 +1,5 @@
 ### Hi there 👋
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 ## 🎯 Competitive Programming
 
 I'm a dedicated competitive programmer on [Codeforces](http://codeforces.com/) where I spend my time solving challenging problems using C++. I believe in the power of algorithms and the beauty of problem-solving.🐧 
